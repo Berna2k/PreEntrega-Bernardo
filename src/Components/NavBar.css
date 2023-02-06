@@ -1,0 +1,19 @@
+.navHeader ul{
+    display: flex;
+  }
+
+.navHeader ul li{
+    display: flex;
+    list-style: none;
+  }
+
+.navHeader ul li a{
+    display: block;
+    padding: 30px;
+    color:white;
+    text-decoration: none;
+  }
+  
+  .navHeader ul li a:hover{
+    color: #61DBFB;
+  }
